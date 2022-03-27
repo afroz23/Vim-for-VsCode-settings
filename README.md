@@ -1,5 +1,6 @@
 # Vim-for-VsCode-settings
 
+```javascript
 {
 
 //vim for VScode settings
@@ -39,3 +40,4 @@
   },
   
   }
+  ```
